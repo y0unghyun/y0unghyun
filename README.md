@@ -1,3 +1,9 @@
+## Welcome, y0unghyun's Github
+
+#### - 🌱 I’m currently learning how to make good apps using Swift 📱
+#### - 💬 Ask me about : [y0unghyun's tech blog](https://velog.io/@y0unghyun)
+#### - 📫 How to reach me : e-mail me to **dl3rpika@gmail.com**
+
 <!--
 **y0unghyun/y0unghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
